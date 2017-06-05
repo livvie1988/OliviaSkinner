@@ -1,4 +1,4 @@
-# Welcome to the Iridium wiki!
+# Welcome to the Iridium wiki
 
 **[Download](https://github.com/ParticleCore/Iridium/wiki/Download) | Features | Report a problem | [Donate](https://github.com/ParticleCore/Iridium/wiki/Donate)**
 
