@@ -1,5 +1,3 @@
-# Instructions for reporting a bug
-
 Before reporting please follow the troubleshooting guide first, it contains steps that will help you solve most of the problems that might not be related or directly related to the extension.
 
 ## Troubleshooting
