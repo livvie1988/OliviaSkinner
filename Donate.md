@@ -1,5 +1,3 @@
-# Donate
-
 While no payment is necessary to use the extension any donation is welcome
 
 **Bitcoin Address `1D5mWgmG8zMn7iDWXBmAD3xbcop7qgvS8c`**  
