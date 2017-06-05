@@ -1,5 +1,3 @@
-# Features
-
 **General**
 > **Layout**  
 >
