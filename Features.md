@@ -20,6 +20,7 @@
 >[Allow ads on videos](#player_ads)  
 >[Allow ads only on videos of subscribed channels](#subscribed_channel_player_ads)  
 >[Allow HFR (60fps) streams](#player_hfr)  
+>[Player shortcuts always active](#player_always_active)  
 >[Change volume using the mouse wheel](#player_volume_wheel)  
 >
 > **Channel**  
@@ -77,5 +78,22 @@ _Notice: This option overrides the option [Allow ads on videos](#player_ads)_
 Controls whether or not videos can play HFR (High Frame Rate) streams when available.
 
 _Notice: There might be cases when disabling HFR streams might not be possible due to YouTube not offering the equivalent quality streams. If such is the case the HFR streams will not be disabled for that video_
+
+---
+### <a name="player_always_active"/>Player shortcuts always active
+
+Allows control over the video player shortcuts from anywhere on the page which would otherwise require the player to be active or selected in order to work.
+
+For a complete list of global and local YouTube shortcuts go to the following link: [YouTube shortcuts](https://github.com/ParticleCore/Iridium/wiki/YouTube-shortcuts)
+
+---
+### <a name="player_volume_wheel"/>Change volume using the mouse wheel
+
+When enabled the volume of the video can be controlled using the mouse wheel while the mouse cursor is over the video player. By default the volume changes up and down by 5%.
+
+---
+### <a name="channel_trailer_auto_play"/>Play channel trailers automatically
+
+Controls whether or not the trailer video in the channel page should play automatically. 
 
 ---
