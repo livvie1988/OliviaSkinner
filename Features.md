@@ -17,6 +17,7 @@
 >
 >[Default video quality](#player_quality)  
 >[Play videos automatically](#player_auto_play)  
+>[Allow annotations on videos](#player_annotations)  
 >[Allow ads on videos](#player_ads)  
 >[Allow ads only on videos of subscribed channels](#subscribed_channel_player_ads)  
 >[Allow HFR (60fps) streams](#player_hfr)  
@@ -58,12 +59,17 @@ _Notice: Due to a bug in the YouTube video player that is yet to be fixed by the
 ---
 ### <a name="player_auto_play"/>Play videos automatically
 
-Controls whether or not videos in the video page should play automatically. 
+Controls whether or not videos on the video page should play automatically. 
+
+---
+### <a name="player_annotations"/>Allow annotations on videos
+
+Controls whether or not annotations can be displayed on the video. 
 
 ---
 ### <a name="player_ads"/>Allow ads on videos
 
-Controls whether or not ads can be displayed in the video page. 
+Controls whether or not ads can be displayed on the video page. 
 
 ---
 ### <a name="subscribed_channel_player_ads"/>Allow ads only on videos of subscribed channels
@@ -94,6 +100,6 @@ When enabled the volume of the video can be controlled using the mouse wheel whi
 ---
 ### <a name="channel_trailer_auto_play"/>Play channel trailers automatically
 
-Controls whether or not the trailer video in the channel page should play automatically. 
+Controls whether or not the trailer video on the channel page should play automatically. 
 
 ---
