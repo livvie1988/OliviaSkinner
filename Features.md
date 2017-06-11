@@ -6,6 +6,7 @@
 > **Thumbnails**  
 >
 >[Preview videos by hovering the thumbnails](#thumbnail_preview)  
+>[Shift key toggles audio on video preview](#thumbnail_preview_mute)  
 
 **Video**
 > **General**  
@@ -44,7 +45,11 @@ Removes the circle style forced around the user and channel images which hides t
 ### <a name="thumbnail_preview"/>Preview videos by hovering the thumbnails
 
 Enables video preview while the mouse is over the thumbnail of a specific video.  
-To listen to the video preview hold the Shift key. To mute it again release the Shift key.  
+
+---
+### <a name="thumbnail_preview_mute"/>Shift key toggles audio on video preview
+
+Allows audio control using the Shift key while previewing videos by hovering the thumbnails. Pressing the Shift key will toggle the audio of the video preview. The audio always defaults to mute when a video preview begins.
 The default volume for the video preview is set to 50%.  
 
 ---
