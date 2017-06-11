@@ -27,6 +27,10 @@
 > **Channel**  
 >
 >[Play channel trailers automatically](#channel_trailer_auto_play)  
+>
+> **Settings**  
+>
+>[Use dark theme](#iridium_dark_mode)  
   
   
 ---
@@ -38,6 +42,8 @@ Removes the circle style forced around the user and channel images which hides t
 ### <a name="thumbnail_preview"/>Preview videos by hovering the thumbnails
 
 Enables video preview while the mouse is over the thumbnail of a specific video.  
+To listen to the video preview hold the Shift key. To mute it again release the Shift key.  
+The default volume for the video preview is set to 50%.  
 
 ---
 ### <a name="channel_video_count"/>Display uploaded videos number
@@ -101,5 +107,10 @@ When enabled the volume of the video can be controlled using the mouse wheel whi
 ### <a name="channel_trailer_auto_play"/>Play channel trailers automatically
 
 Controls whether or not the trailer video on the channel page should play automatically. 
+
+---
+### <a name="iridium_dark_mode"/>Use dark theme
+
+Switches the theme of the Iridium settings page from light to dark. 
 
 ---
