@@ -27,6 +27,8 @@
 > **Channel**  
 >
 >[Play channel trailers automatically](#channel_trailer_auto_play)  
+
+**Settings**
 >
 > **Settings**  
 >
