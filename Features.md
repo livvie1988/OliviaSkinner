@@ -114,7 +114,7 @@ When enabled the volume of the video can be controlled using the mouse wheel whi
 ---
 ### <a name="player_always_visible"/>Keep the player always visible while scrolling
 
-When enable the player will minimize into the bottom right corner of the screen once the original position is less than half visible. The player will restore it's size and position when more the original position is more than half visible.
+When enabled the player will minimize into the bottom right corner of the screen once the original position is less than half visible. The player will restore it's size and position when more the original position is more than half visible.
 
 _Notice: For the moment the size and position of the mini player cannot be changed, but it will be possible in future versions of the extension._
 
