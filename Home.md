@@ -3,3 +3,11 @@
 [![current_version alpha](https://img.shields.io/badge/current_version-alpha-blue.svg)](https://github.com/ParticleCore/Iridium/tree/alpha)
 
 Iridium (former [YouTube Plus](https://github.com/ParticleCore/Particle)) is an extension built to improve the user experience on the new YouTube Material layout.
+
+---
+
+Thank you to the people that have contributed to the locales:  
+
+Language|Translators
+:--------|:-----------
+Deutsch| [Sebastian Barfurth](https://github.com/sebastianbarfurth)
