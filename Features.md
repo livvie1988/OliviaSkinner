@@ -24,7 +24,8 @@
 >[Allow HFR (60fps) streams](#player_hfr)  
 >[Player shortcuts always active](#player_always_active)  
 >[Change volume using the mouse wheel](#player_volume_wheel)  
->[Keep the player always visible while scrolling](#player_always_visible)  
+>[Video stays visible while scrolling](#player_always_visible)  
+>[Video keeps playing when changing pages](#player_always_playing)
 >
 > **Channel**  
 >
@@ -112,9 +113,16 @@ For a complete list of global and local YouTube shortcuts go to the following li
 When enabled the volume of the video can be controlled using the mouse wheel while the mouse cursor is over the video player. By default the volume changes up and down by 5%.
 
 ---
-### <a name="player_always_visible"/>Keep the player always visible while scrolling
+### <a name="player_always_visible"/>Video stays visible while scrolling
 
 When enabled the player will minimize into the bottom right corner of the screen once the original position is less than half visible. The player will restore it's size and position when more the original position is more than half visible.
+
+_Notice: For the moment the size and position of the mini player cannot be changed, but it will be possible in future versions of the extension._
+
+---
+### <a name="player_always_playing"/>Video keeps playing when changing pages
+
+When enabled the player will minimize into the bottom right corner of the screen and keep playing while navigating to different pages. Two buttons located at the top are available in this mode that allows the return to the original video page or close the mini player.
 
 _Notice: For the moment the size and position of the mini player cannot be changed, but it will be possible in future versions of the extension._
 
