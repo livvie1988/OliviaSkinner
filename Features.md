@@ -1,4 +1,9 @@
 **General**
+> **General**  
+>
+>[Default YouTube logo page](#default_logo_page)  
+>[Default channel tab](default_logo_page)  
+>
 > **Layout**  
 >
 >[Make user images squared](#square_avatars)  
@@ -19,12 +24,13 @@
 >[Default video quality](#player_quality)  
 >[Play videos automatically](#player_auto_play)  
 >[Allow annotations on videos](#player_annotations)  
+>[Allow subtitles on videos](#player_subtitles)  
 >[Allow ads on videos](#player_ads)  
 >[Allow ads only on videos of subscribed channels](#subscribed_channel_player_ads)  
 >[Allow HFR (60fps) streams](#player_hfr)  
 >[Player shortcuts always active](#player_always_active)  
 >[Change volume using the mouse wheel](#player_volume_wheel)  
->[Video stays visible while scrolling](#player_always_visible)  
+>[Video stays always visible while scrolling](#player_always_visible)  
 >[Video keeps playing when changing pages](#player_always_playing)
 >
 > **Channel**  
@@ -38,6 +44,16 @@
 >[Use dark theme](#iridium_dark_mode)  
   
   
+---
+### <a name="default_logo_page"/>Default YouTube logo page
+
+Defines which page to go to when clicking on the YouTube logo located on the top left corner.  
+
+---
+### <a name="default_logo_page"/>Default channel tab
+
+Defines which channel tab to load when clicking on a channel link or user link.  
+
 ---
 ### <a name="square_avatars"/>Make user images squared
 
@@ -82,6 +98,11 @@ Controls whether or not videos on the video page should play automatically.
 Controls whether or not annotations can be displayed on the video. 
 
 ---
+### <a name="player_subtitles"/>Allow subtitles on videos
+
+Controls whether or not subtitles can be displayed on the video. 
+
+---
 ### <a name="player_ads"/>Allow ads on videos
 
 Controls whether or not ads can be displayed on the video page. 
@@ -113,7 +134,7 @@ For a complete list of global and local YouTube shortcuts go to the following li
 When enabled the volume of the video can be controlled using the mouse wheel while the mouse cursor is over the video player. By default the volume changes up and down by 5%.
 
 ---
-### <a name="player_always_visible"/>Video stays visible while scrolling
+### <a name="player_always_visible"/>Video stays always visible while scrolling
 
 When enabled the player will minimize into the bottom right corner of the screen once the original position is less than half visible. The player will restore it's size and position when more the original position is more than half visible.
 
