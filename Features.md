@@ -146,7 +146,7 @@ _Notice: There might be cases when disabling HFR streams might not be possible d
 The extension will remember the last player size the user changed to and enforce that size when YouTube tries to reset it.  
 
 ---
-### <a name="player_hfr"/>Allow HFR (60fps) streams
+### <a name="player_memorize_volume"/>Memorize player volume
 
 The extension will remember the last player volume the user changed to and restore that volume when YouTube tries to reset it.  
 
