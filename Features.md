@@ -33,7 +33,7 @@
 >[Allow ads on videos](#player_ads)  
 >[Allow ads only on videos of subscribed channels](#subscribed_channel_player_ads)  
 >[Allow HFR (60fps) streams](#player_hfr)  
->[Memorize player size) streams](#player_memorize_size)  
+>[Memorize player size](#player_memorize_size)  
 >[Memorize player volume](#player_memorize_volume)  
 >[Player shortcuts always active](#shortcuts_always_active)  
 >[Change volume using the mouse wheel](#player_volume_wheel)  
