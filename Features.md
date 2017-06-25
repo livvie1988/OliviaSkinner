@@ -75,7 +75,7 @@ Allows audio control using the Shift key while previewing videos by hovering the
 The default volume for the video preview is set to 50%.  
 
 ---
-### <a name="enable_blacklist"/>A new Enable blacklist
+### <a name="enable_blacklist"/>Enable blacklist
 
 Blocks all videos from a channel on main pages, with the exception of Subscriptions and Channel pages. When enabled a cross button will become available on the video thumbnails, pressing it will automatically add the channel of that video to the blacklist and remove any videos belonging to that channel.  
 It is possible to remove channels individually via the "Edit" button located below the setting.  
