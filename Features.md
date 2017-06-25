@@ -2,7 +2,7 @@
 > **General**  
 >
 >[Default YouTube logo page](#default_logo_page)  
->[Default channel tab](default_logo_page)  
+>[Default channel tab](#default_channel_tab)  
 >
 > **Layout**  
 >
@@ -54,7 +54,7 @@
 Defines which page to go to when clicking on the YouTube logo located on the top left corner.  
 
 ---
-### <a name="default_logo_page"/>Default channel tab
+### <a name="default_channel_tab"/>Default channel tab
 
 Defines which channel tab to load when clicking on a channel link or user link.  
 
