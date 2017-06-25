@@ -29,9 +29,12 @@
 >[Play videos automatically](#player_auto_play)  
 >[Allow annotations on videos](#player_annotations)  
 >[Allow subtitles on videos](#player_subtitles)  
+>[Allow loudness normalization](#player_loudness)  
 >[Allow ads on videos](#player_ads)  
 >[Allow ads only on videos of subscribed channels](#subscribed_channel_player_ads)  
 >[Allow HFR (60fps) streams](#player_hfr)  
+>[Memorize player size) streams](#player_memorize_size)  
+>[Memorize player volume](#player_memorize_volume)  
 >[Player shortcuts always active](#shortcuts_always_active)  
 >[Change volume using the mouse wheel](#player_volume_wheel)  
 >[Video stays always visible while scrolling](#player_always_visible)  
@@ -113,6 +116,11 @@ Controls whether or not annotations can be displayed on the video.
 Controls whether or not subtitles can be displayed on the video. 
 
 ---
+### <a name="player_loudness"/>Allow loudness normalization
+
+YouTube provides loudness normalization on the client side, but this does not work well most of the time resulting in plenty of videos playing too low to enjoy. With this option disabled the videos will play at the volume the video author intended to play.  
+
+---
 ### <a name="player_ads"/>Allow ads on videos
 
 Controls whether or not ads can be displayed on the video page. 
@@ -130,6 +138,17 @@ _Notice: This option overrides the option [Allow ads on videos](#player_ads)_
 Controls whether or not videos can play HFR (High Frame Rate) streams when available.
 
 _Notice: There might be cases when disabling HFR streams might not be possible due to YouTube not offering the equivalent quality streams. If such is the case the HFR streams will not be disabled for that video_
+
+
+---
+### <a name="player_memorize_size"/>Memorize player size
+
+The extension will remember the last player size the user changed to and enforce that size when YouTube tries to reset it.  
+
+---
+### <a name="player_hfr"/>Allow HFR (60fps) streams
+
+The extension will remember the last player volume the user changed to and restore that volume when YouTube tries to reset it.  
 
 ---
 ### <a name="shortcuts_always_active"/>Player shortcuts always active
