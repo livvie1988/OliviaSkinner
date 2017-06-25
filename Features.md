@@ -12,6 +12,10 @@
 >
 >[Preview videos by hovering the thumbnails](#thumbnail_preview)  
 >[Shift key toggles audio on video preview](#thumbnail_preview_mute)  
+>
+> **Blacklist**  
+>
+>[Enable blacklist](#enable_blacklist)  
 
 **Video**
 > **General**  
@@ -28,7 +32,7 @@
 >[Allow ads on videos](#player_ads)  
 >[Allow ads only on videos of subscribed channels](#subscribed_channel_player_ads)  
 >[Allow HFR (60fps) streams](#player_hfr)  
->[Player shortcuts always active](#player_always_active)  
+>[Player shortcuts always active](#shortcuts_always_active)  
 >[Change volume using the mouse wheel](#player_volume_wheel)  
 >[Video stays always visible while scrolling](#player_always_visible)  
 >[Video keeps playing when changing pages](#player_always_playing)
@@ -69,6 +73,12 @@ Enables video preview while the mouse is over the thumbnail of a specific video.
 
 Allows audio control using the Shift key while previewing videos by hovering the thumbnails. Pressing the Shift key will toggle the audio of the video preview. The audio always defaults to mute when a video preview begins.
 The default volume for the video preview is set to 50%.  
+
+---
+### <a name="enable_blacklist"/>A new Enable blacklist
+
+Blocks all videos from a channel on main pages, with the exception of Subscriptions and Channel pages. When enabled a cross button will become available on the video thumbnails, pressing it will automatically add the channel of that video to the blacklist and remove any videos belonging to that channel.  
+It is possible to remove channels individually via the "Edit" button located below the setting.  
 
 ---
 ### <a name="channel_video_count"/>Display uploaded videos number
@@ -122,7 +132,7 @@ Controls whether or not videos can play HFR (High Frame Rate) streams when avail
 _Notice: There might be cases when disabling HFR streams might not be possible due to YouTube not offering the equivalent quality streams. If such is the case the HFR streams will not be disabled for that video_
 
 ---
-### <a name="player_always_active"/>Player shortcuts always active
+### <a name="shortcuts_always_active"/>Player shortcuts always active
 
 Allows control over the video player shortcuts from anywhere on the page which would otherwise require the player to be active or selected in order to work.
 
