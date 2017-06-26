@@ -62,13 +62,13 @@ Before reporting please follow the troubleshooting guide first, it contains step
 
 - The following explains the information you will have to fill in the above blank template
 
-        Browser Name: (The browser you are using; Firefox or Opera)
+        Browser Name: (The browser you are using; Firefox, Chrome or Opera)
 
-        Browser Version: (The browser version; 38.0.0 or 42.0.2311.135)
+        Browser Version: (The browser version; 38.0.0, 58.0.1.514 or 42.0.2311.135)
 
         Operating System: (The OS you are using; Windows 7, Linux, OSX)
 
-        Software Type: (The type of Iridium extension you are using; Add-on or Userscript)
+        Software Type: (The type of Iridium extension you are using; Add-on, extension or Userscript)
 
         Software Version: (The version of the Iridium extension you are using; 0.0.1, 0.2.5, etc.)
 
