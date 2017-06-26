@@ -27,7 +27,7 @@ Before reporting please follow the troubleshooting guide first, it contains step
 - Reset the extension settings to their default.
   - If the problem still persists move to the next step
 
-- Create a new browser profile and install only Iridium, see if the problem still persists. New profile instructions: [Opera](http://lmgtfy.com/?q=reset+opera+profile) | [Firefox](https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles#w_starting-the-profile-manager)
+- Create a new browser profile and install only Iridium, see if the problem still persists. New profile instructions:  [Firefox](https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles#w_starting-the-profile-manager) | [Chrome](https://web.archive.org/web/20160915221807/https://support.google.com/chrome/answer/142059) | [Opera](http://lmgtfy.com/?q=reset+opera+profile)
   - If the problem doesn't persist then it was a browser setting that was causing the issue
   - If the problem still persists move to the posting section
 
