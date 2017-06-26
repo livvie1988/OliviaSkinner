@@ -2,6 +2,10 @@ Before reporting please follow the troubleshooting guide first, it contains step
 
 ## Troubleshooting
 
+- Make sure that you are using the new YouTube Material layout. If you aren't then enable it and try again https://www.youtube.com/new
+
+ - This extension is built just for the new layout, it will not work with the classic layout.
+
 - Make sure that you are using the most recent Iridium version. If you aren't then update it, restart the browser and see if the problem has already been fixed.
 
   - Quite often problems have already been fixed in a recent version that your browser hasn't had the time to updated Iridium yet. To check which version is the latest visit the latest release tracker located here: https://github.com/ParticleCore/Iridium/releases/latest or the respective branch (alpha/beta) if you are using a development version.
