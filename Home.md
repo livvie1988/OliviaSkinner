@@ -16,3 +16,4 @@ Thank you to the people that have contributed to the locales:
 Language|Translators
 :--------|:-----------
 Deutsch| [Sebastian Barfurth](https://github.com/sebastianbarfurth)
+Turkish| [adeep](https://github.com/adeep)
