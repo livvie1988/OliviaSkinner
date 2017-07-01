@@ -16,4 +16,6 @@ Thank you to the people that have contributed to the locales:
 Language|Translators
 :--------|:-----------
 Deutsch| [Sebastian Barfurth](https://github.com/sebastianbarfurth)
+Greek | [Apostolos Tympakianakis](https://github.com/tympapost)
+Portuguese (Brazil) | [IgorAntun](https://github.com/IgorAntun)
 Turkish| [adeep](https://github.com/adeep)
