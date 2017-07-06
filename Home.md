@@ -18,4 +18,5 @@ Language|Translators
 Deutsch| [Sebastian Barfurth](https://github.com/sebastianbarfurth)
 Greek | [Apostolos Tympakianakis](https://github.com/tympapost)
 Portuguese (Brazil) | [IgorAntun](https://github.com/IgorAntun)
+Russian | [Parasite03](https://github.com/Parasite03)
 Turkish| [adeep](https://github.com/adeep)
