@@ -1,6 +1,6 @@
 Before reporting please follow the troubleshooting guide first, it contains steps that will help you solve most of the problems that might not be related or directly related to the extension.
 
-Any issue that fails to follow these instructions will be automatically closed and marked as invalid.
+**Any issue that fails to follow these instructions will be automatically closed and marked as invalid.**
 
 
 ## Troubleshooting
