@@ -1,5 +1,8 @@
 Before reporting please follow the troubleshooting guide first, it contains steps that will help you solve most of the problems that might not be related or directly related to the extension.
 
+Any issue that fails to follow these instructions will be automatically closed and marked as invalid.
+
+
 ## Troubleshooting
 
 - Make sure that you are using the new YouTube Material layout. If you aren't then enable it and try again: https://www.youtube.com/new
