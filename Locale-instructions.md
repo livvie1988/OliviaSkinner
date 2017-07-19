@@ -19,7 +19,7 @@ If you are interested in contributing to the locale files follow these instructi
 ---
 
 ### Merge request   
- - Once the locale has been properly translated or updated, the commit title (usually where it reads `Create new file` or `Update xx_XX.json`) must be completely replaced with the language name in its native form. Using the previous example for a Russian locale, the commit title must have only the original name `Русский` and nothing else.
+ - Once the locale has been properly translated or updated, the commit title (usually where it reads `Create xx_XX.json` or `Update xx_XX.json`) must be completely replaced with the language name in its native form. Using the previous example for a Russian locale, the commit title must have only the original name `Русский` and nothing else.
  - Descriptions are not required to be filled in
 
 ---
