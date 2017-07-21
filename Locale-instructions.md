@@ -20,7 +20,7 @@ If you are interested in contributing to the locale files follow these instructi
 
 ### Merge request   
  - Once the locale has been properly created or updated, the commit title (usually where it reads `Create xx_XX.json` or `Update xx_XX.json`) must be completely replaced with the language name in its native form. Using the previous example for a Russian locale, the commit title must have only the original name `Русский` and nothing else.
-   - If a merge request was made with an incorrect title do not just update the title and try make a new pull request. The file must be created again with the correct commit title for it to be applied correctly.
+   - If a merge request was made with an incorrect title do not just update the title and a new pull request. The file must be created again with the correct commit title for it to be applied correctly.
  - Descriptions are not required to be filled in
 
 ---
