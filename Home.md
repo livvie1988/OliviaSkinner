@@ -15,6 +15,7 @@ Thank you to the people that have contributed to the locales:
 
 Language|Translators
 :--------|:-----------
+Bulgarian| [AdmiralAnimE](https://github.com/AdmiralAnimE)
 Deutsch| [Sebastian Barfurth](https://github.com/sebastianbarfurth), [2g4y1](https://github.com/2g4y1)
 Greek | [Apostolos Tympakianakis](https://github.com/tympapost)
 Portuguese (Brazil) | [IgorAntun](https://github.com/IgorAntun)
