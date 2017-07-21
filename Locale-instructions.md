@@ -20,12 +20,13 @@ If you are interested in contributing to the locale files follow these instructi
 
 ### Merge request   
  - Once the locale has been properly translated or updated, the commit title (usually where it reads `Create xx_XX.json` or `Update xx_XX.json`) must be completely replaced with the language name in its native form. Using the previous example for a Russian locale, the commit title must have only the original name `Русский` and nothing else.
+   - If a pull request was made with an incorrect title do not just update the title and try make a new pull request. The file must be created again with the correct commit title for it to be applied correctly.
  - Descriptions are not required to be filled in
 
 ---
 
 ### Additional note  
- - **Do not include feature descriptions in the labels**. Each feature is already linked to a detailed explanation available in the wiki. **The labels should be as short as possible** with enough information necessary for basic understanding. If users do not find that information enough they can click on the wiki link and read about the feature in more detail.
+ - **Do not include feature descriptions in the labels**. Each feature is already linked to a detailed explanation available in the wiki. **The labels should be as short as possible** with enough information necessary for basic understanding. If users do not find that information sufficient they can click on the wiki link and read about the feature in more detail.
   
 
 You can find all the locales currently available here: https://github.com/ParticleCore/Iridium/tree/master/i18n
