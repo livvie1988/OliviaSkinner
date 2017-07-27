@@ -10,8 +10,8 @@
 >
 > **Thumbnails**  
 >
->[Preview videos by hovering the thumbnails](#thumbnail_preview)  
->[Shift key toggles audio on video preview](#thumbnail_preview_mute)  
+>[Play videos by hovering the thumbnails](#thumbnail_preview)  
+>[Shift key toggles audio on video thumbnail playback](#thumbnail_preview_mute)  
 >
 > **Blacklist**  
 >
@@ -67,15 +67,15 @@ Defines which channel tab to load when clicking on a channel link or user link.
 Removes the circle style forced around the user and channel images which hides the corner of the images.  
 
 ---
-### <a name="thumbnail_preview"/>Preview videos by hovering the thumbnails
+### <a name="thumbnail_preview"/>Play videos by hovering the thumbnails
 
-Enables video preview while the mouse is over the thumbnail of a specific video.  
+Enables full video playback while the mouse is over the thumbnail of a specific video.  
 
 ---
-### <a name="thumbnail_preview_mute"/>Shift key toggles audio on video preview
+### <a name="thumbnail_preview_mute"/>Shift key toggles audio on video thumbnail playback
 
-Allows audio control using the Shift key while previewing videos by hovering the thumbnails. Pressing the Shift key will toggle the audio of the video preview. The audio always defaults to mute when a video preview begins.
-The default volume for the video preview is set to 50%.  
+Allows audio control using the Shift key while playing videos by hovering the thumbnails. Pressing the Shift key will toggle the audio of the video. The audio always defaults to mute when a video thumbnail playback begins.
+The default volume for the video thumbnail playback is set to 50%.  
 
 ---
 ### <a name="enable_blacklist"/>Enable blacklist
