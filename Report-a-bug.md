@@ -13,7 +13,7 @@ Before reporting please follow the troubleshooting guide first, it contains step
 
   - Quite often problems have already been fixed in a recent version that your browser hasn't had the time to updated Iridium yet. To check which version is the latest visit the latest release tracker located here: https://github.com/ParticleCore/Iridium/releases/latest or the respective branch (alpha/beta) if you are using a development version.
 
-- This extension is only being supported for **stable versions** of Firefox 54+, Chrome 58+ and Opera 45+, there are no plans to support any other browser in the future. If you are using a different browser then try running the extension in one of the supported versions.
+- This extension is only being supported for **stable versions** of Firefox 54+ and Chrome 58+, there are no plans to support any other browser in the future. If you are using a different browser then try running the extension in one of the supported versions.
 
   - If the problem still persists move to the next step.
 
@@ -34,7 +34,7 @@ Before reporting please follow the troubleshooting guide first, it contains step
 - Reset the extension settings to their default.
   - If the problem still persists move to the next step
 
-- Create a new browser profile and install only Iridium, see if the problem still persists. New profile instructions:  [Firefox](https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles#w_starting-the-profile-manager) | [Chrome](https://web.archive.org/web/20160915221807/https://support.google.com/chrome/answer/142059) | [Opera](http://lmgtfy.com/?q=reset+opera+profile)
+- Create a new browser profile and install only Iridium, see if the problem still persists. New profile instructions:  [Firefox](https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles#w_starting-the-profile-manager) | [Chrome](https://web.archive.org/web/20160915221807/https://support.google.com/chrome/answer/142059)
   - If the problem doesn't persist then it was a browser setting that was causing the issue
   - If the problem still persists move to the posting section
 
@@ -69,7 +69,7 @@ Before reporting please follow the troubleshooting guide first, it contains step
 
 - The following explains the information you will have to fill in the above blank template
 
-        Browser Name: (The browser you are using; Firefox, Chrome or Opera)
+        Browser Name: (The browser you are using; Firefox or Chrome)
 
         Browser Version: (The browser version; 38.0.0, 58.0.1.514 or 42.0.2311.135)
 
