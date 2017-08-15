@@ -22,6 +22,7 @@
 >
 >[Display uploaded videos number](#channel_video_count)  
 >[Display how long the video was uploaded](#channel_video_time)  
+>[Enable quick controls](#player_quick_controls)  
 >
 > **Player**  
 >
@@ -92,6 +93,11 @@ Displays the total number of uploaded videos in front of the video author name. 
 ### <a name="channel_video_time"/>Display how long the video was uploaded
 
 Displays in front of the published date how long ago the video has been uploaded. 
+
+---
+### <a name="player_quick_controls"/>Enable quick controls
+
+Displays a section containing quick controls. This section is located above the video description and is closed by default. Opening it will reveal four options to interact with, two of them are working: Autoplay and Thumbnails. 
 
 ---
 ### <a name="player_quality"/>Default video quality
