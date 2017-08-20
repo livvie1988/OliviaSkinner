@@ -97,7 +97,12 @@ Displays in front of the published date how long ago the video has been uploaded
 ---
 ### <a name="player_quick_controls"/>Enable quick controls
 
-Displays a section containing quick controls. This section is located above the video description and is closed by default. Opening it will reveal four options to interact with, two of them are working: Autoplay and Thumbnails. 
+Displays a section containing quick controls. This section is located above the video description and is closed by default. Opening it will reveal a list of options to interact with:
+
+ - Autoplay: Allows quick control to the autoplay feature
+ - Thumbnails: Displays a small gallery with all qualities. Some qualities might not exist, in which case a grey icon will be displayed
+ - Full browser: Expands the player to fill the browser only during video playback, exiting automatically when the video ends. To exit during playback press the "Esc" key.
+ - Screen shot (not working yet) 
 
 ---
 ### <a name="player_quality"/>Default video quality
