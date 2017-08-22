@@ -102,7 +102,7 @@ Displays a section containing quick controls. This section is located above the 
  - Autoplay: Allows quick control to the autoplay feature.
  - Thumbnails: Displays a small gallery with all qualities. Some qualities might not exist, in which case a grey icon will be displayed. To close the thumbnails panel click anywhere outside the images.
  - Full browser: Expands the player to fill the browser only during video playback, exiting automatically when the video ends. To exit during playback press the "Esc" key.
- - Screen shot: Extracts an exact copy of the current frame being displayed in the video. The higher the video quality, the bigger the resulting image. To close the screen shot panel click anywhere outside the image area. 
+ - Screen shot: Extracts an exact copy of the current frame being displayed in the video. This only works when the video is playing or paused. The higher the video quality, the bigger the resulting image. To close the screen shot panel click anywhere outside the image area. 
 
 ---
 ### <a name="player_quality"/>Default video quality
