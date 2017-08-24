@@ -39,7 +39,7 @@
 >[Player shortcuts always active](#shortcuts_always_active)  
 >[Change volume using the mouse wheel](#player_volume_wheel)  
 >[Video stays always visible while scrolling](#player_always_visible)  
->[Video keeps playing when changing pages](#player_always_playing)
+>[Video keeps playing when changing pages](#player_always_playing)  
 >[Hide end screen cards on hover](#player_hide_end_screen)
 >
 > **Channel**  
