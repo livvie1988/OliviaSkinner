@@ -40,6 +40,7 @@
 >[Change volume using the mouse wheel](#player_volume_wheel)  
 >[Video stays always visible while scrolling](#player_always_visible)  
 >[Video keeps playing when changing pages](#player_always_playing)
+>[Hide end screen cards on hover](#player_hide_end_screen)
 >
 > **Channel**  
 >
@@ -186,6 +187,11 @@ _Notice: For the moment the size and position of the mini player cannot be chang
 When enabled the player will minimize into the bottom right corner of the screen and keep playing while navigating to different pages. Two buttons located at the top are available in this mode that allows the return to the original video page or close the mini player.
 
 _Notice: For the moment the size and position of the mini player cannot be changed, but it will be possible in future versions of the extension._
+
+---
+### <a name="player_hide_end_screen"/>Hide end screen cards on hover
+
+When enabled all end screen cards will become invisible only when the mouse is over the video player, except when the mouse is directly over an end screen card, which allows only that card to become visible again.
 
 ---
 ### <a name="channel_trailer_auto_play"/>Play channel trailers automatically
