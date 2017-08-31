@@ -7,6 +7,7 @@
 > **Layout**  
 >
 >[Make user images squared](#square_avatars)  
+>[Improve the YouTube logo](#improved_logo)  
 >
 > **Thumbnails**  
 >
@@ -67,6 +68,12 @@ Defines which channel tab to load when clicking on a channel link or user link.
 ### <a name="square_avatars"/>Make user images squared
 
 Removes the circle style forced around the user and channel images which hides the corner of the images.  
+
+---
+
+### <a name="improved_logo"/>Improve the YouTube logo  
+
+This is a simple tweak to the bright red YouTube logo. When enabled it will switch the YouTube logo on the top left corner to neutral color; white when using the dark theme and dark grey when using the clear theme.  
 
 ---
 ### <a name="thumbnail_preview"/>Play videos by hovering the thumbnails
