@@ -37,6 +37,7 @@
 >[Allow HFR (60fps) streams](#player_hfr)  
 >[Memorize player size](#player_memorize_size)  
 >[Memorize player volume](#player_memorize_volume)  
+>[Force high quality player thumbnail](#player_max_res_thumbnail)  
 >[Player shortcuts always active](#shortcuts_always_active)  
 >[Change volume using the mouse wheel](#player_volume_wheel)  
 >[Video stays always visible while scrolling](#player_always_visible)  
@@ -168,6 +169,11 @@ The extension will remember the last player size the user changed to and enforce
 ### <a name="player_memorize_volume"/>Memorize player volume
 
 The extension will remember the last player volume the user changed to and restore that volume when YouTube tries to reset it.  
+
+---
+### <a name="player_max_res_thumbnail"/>Force high quality player thumbnail
+
+When autoplay is disabled the video thubmnail will be set to the highest resolution possible. If this is not available it will display a generic grey YouTube icon.  
 
 ---
 ### <a name="shortcuts_always_active"/>Player shortcuts always active
