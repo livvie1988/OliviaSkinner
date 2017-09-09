@@ -216,4 +216,6 @@ Controls whether or not the trailer video on the channel page should play automa
 
 Switches the theme of the Iridium settings page from light to dark. 
 
----
+---  
+
+[![](https://www.google-analytics.com/collect?v=1&tid=UA-106143414-1&cid=000000&t=event&ec=page&ea=open&el=000000&cs=wiki_features&cm=repo&cn=repository)](https://github.com/ParticleCore/Iridium)
