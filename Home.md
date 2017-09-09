@@ -1,4 +1,4 @@
-**[Download](https://github.com/ParticleCore/Iridium/wiki/Download) | [Features](https://github.com/ParticleCore/Iridium/wiki/Features) | [Report a problem](https://github.com/ParticleCore/Iridium/wiki/Report-a-bug) | [Donate](https://github.com/ParticleCore/Iridium/wiki/Donate)** [![](https://www.google-analytics.com/collect?v=1&tid=UA-106143414-1&cid=000000&t=event&ec=page&ea=open&el=000000&cs=wiki_home&cm=repo&cn=repository)](https://github.com/ParticleCore/Iridium)
+**[Download](https://github.com/ParticleCore/Iridium/wiki/Download) | [Features](https://github.com/ParticleCore/Iridium/wiki/Features) | [Report a problem](https://github.com/ParticleCore/Iridium/wiki/Report-a-bug) | [Donate](https://github.com/ParticleCore/Iridium/wiki/Donate)**
 
 [![current version](https://img.shields.io/github/release/ParticleCore/Iridium/all.svg)](https://github.com/ParticleCore/Iridium/releases/latest)
 
@@ -22,3 +22,6 @@ Portuguese (Brazil) | [Igor Antun](https://github.com/IgorAntun)
 Russian | [Parasite03](https://github.com/Parasite03)
 Spanish | [Freddy Morán Jr.](https://github.com/Freddynic159)
 Turkish| [adeep](https://github.com/adeep)
+
+
+[![](https://www.google-analytics.com/collect?v=1&tid=UA-106143414-1&cid=000000&t=event&ec=page&ea=open&el=000000&cs=wiki_home&cm=repo&cn=repository)](https://github.com/ParticleCore/Iridium)
