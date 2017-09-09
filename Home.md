@@ -22,6 +22,3 @@ Portuguese (Brazil) | [Igor Antun](https://github.com/IgorAntun)
 Russian | [Parasite03](https://github.com/Parasite03)
 Spanish | [Freddy Morán Jr.](https://github.com/Freddynic159)
 Turkish| [adeep](https://github.com/adeep)
-
-
-[![](https://www.google-analytics.com/collect?v=1&tid=UA-106143414-1&cid=000000&t=event&ec=page&ea=open&el=000000&cs=wiki_home&cm=repo&cn=repository)](https://github.com/ParticleCore/Iridium)
