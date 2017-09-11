@@ -3,6 +3,7 @@
 >
 >[Default YouTube logo page](#default_logo_page)  
 >[Default channel tab](#default_channel_tab)  
+>[Comment section](#comments_visibility)  
 >
 > **Layout**  
 >
@@ -112,6 +113,14 @@ Displays a section containing quick controls. This section is located above the 
  - Thumbnails: Displays a small gallery with all qualities. Some qualities might not exist, in which case a grey icon will be displayed. To close the thumbnails panel click anywhere outside the images.
  - Full browser: Expands the player to fill the browser only during video playback, exiting automatically when the video ends. To exit during playback press the "Esc" key.
  - Screen shot: Extracts an exact copy of the current frame being displayed in the video. This only works when the video is playing or paused. The higher the video quality, the bigger the resulting image. To close the screen shot panel click anywhere outside the image area. 
+
+---
+### <a name="comments_visibility"/>Comment section
+
+Controls the comment section visibility. Available options are:
+ - Show: Default YouTube behavior, comments will show when the section becomes visibile
+ - Hide: Prevents the comments from loading and a button is made available to load the comments on demand
+ - Remove: Completely prevents the comment section from loading with no option to load them 
 
 ---
 ### <a name="player_quality"/>Default video quality
