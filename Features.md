@@ -3,7 +3,6 @@
 >
 >[Default YouTube logo page](#default_logo_page)  
 >[Default channel tab](#default_channel_tab)  
->[Comment section](#comments_visibility)  
 >
 > **Layout**  
 >
@@ -25,6 +24,7 @@
 >[Display uploaded videos number](#channel_video_count)  
 >[Display how long the video was uploaded](#channel_video_time)  
 >[Enable quick controls](#player_quick_controls)  
+>[Comment section](#comments_visibility)  
 >
 > **Player**  
 >
