@@ -81,7 +81,7 @@ Before reporting please follow the troubleshooting guide first, it contains step
 
         Userscript Manager: (The type of userscript manager you are using; Greasemonkey or Tampermonkey)
 
-        Userscript Version: (The userscript manager version you are using; 3.2beta1, 3.10.84)
+        Userscript Manager Version: (The userscript manager version you are using; 3.2beta1, 3.10.84)
 
         Problem Description: (Try to be as precise as possible, include screenshot(s) or video(s) if the problem can be visualized)
 
