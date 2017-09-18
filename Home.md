@@ -16,7 +16,7 @@ Language|Translators
 :--------|:-----------
 Bulgarian| [AdmiralAnimE](https://github.com/AdmiralAnimE)
 Deutsch| [Sebastian Barfurth](https://github.com/sebastianbarfurth), [2g4y1](https://github.com/2g4y1)
-French | [Théo](https://github.com/tete0148)
+French | [Théo](https://github.com/tete0148), [Hugo Vigne](https://github.com/Kemipso)
 Greek | [Apostolos Tympakianakis](https://github.com/tympapost)
 Polish | [Gilukm](https://github.com/Gilukm)
 Portuguese (Brazil) | [Igor Antun](https://github.com/IgorAntun)
