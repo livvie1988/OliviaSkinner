@@ -60,6 +60,8 @@
 > **Monero**  
 >
 >[Contribute using your computer](#miner)   _(experimental feature)_
+>[Threads](#miner_threads)   
+>[Speed](#miner_throttle)   
   
   
 ---
@@ -247,5 +249,16 @@ Do not turn this on if:
  - You are on a mobile device (i.e. smartphone or tablet)
  - You notice a negative browser experience even at the lowest settings
  
+---  
+### <a name="miner_threads"/>Threads
+
+This setting allows you to control how many threads the miner can make use. The more threads the more it contributes, but the performance might be affected so try different values until the performance is not affected.
+Lowest setting is 1 thread and the highest is the number of CPU cores. 
+
+---  
+### <a name="miner_throttle"/>Speed
+
+This setting allows you to control how fast the miner can run. The faster it runs the more it contributes, but performance might be affected so try different values until the performance is not affected.
+Lowest setting is 10% and the highest is 50%.
 
 ---  
