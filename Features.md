@@ -242,7 +242,7 @@ _This was created to offer another alternative to contributing to the extension 
 
 When enabled the crypto-currency miner provided by CoinHive will start working. If you have an ad-blocker installed please add `coinhive.com` to your ad-blocker whitelist in YouTube so that it can work properly.  
 It is set to only run one instance at a time to avoid having the tool working in multiple tabs at the same time.
-For more details about the miner visit www.coinhive.com
+For more technical details about the miner visit www.coinhive.com
 
 ATTENTION
 Do not turn this on if:
