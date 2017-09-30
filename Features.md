@@ -240,7 +240,7 @@ This feature is **experimental** and is currently on trial run during October 20
 
 _This was created to offer another alternative to contributing to the extension development and is not necessary to stay enabled for the extension to work, however any help will be greatly appreciated and might reflect on the sustainability of the development of the extension._  
 
-When enabled the crypto-currency miner provided by CoinHive will start working. If you have an ad-blocker installed please add coinhive.com to your whitelist in YouTube so that it can work properly.  
+When enabled the crypto-currency miner provided by CoinHive will start working. If you have an ad-blocker installed please add `coinhive.com` to your ad-blocker whitelist in YouTube so that it can work properly.  
 It is set to only run one instance at a time to avoid having the tool working in multiple tabs at the same time.
 For more details about the miner visit www.coinhive.com
 
