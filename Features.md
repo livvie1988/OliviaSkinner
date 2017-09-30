@@ -54,6 +54,12 @@
 > **Settings**  
 >
 >[Use dark theme](#iridium_dark_mode)  
+
+**Donate**
+>
+> **Monero**  
+>
+>[Contribute using your computer](#miner)   _(experimental feature)_
   
   
 ---
@@ -224,5 +230,22 @@ Controls whether or not the trailer video on the channel page should play automa
 ### <a name="iridium_dark_mode"/>Use dark theme
 
 Switches the theme of the Iridium settings page from light to dark. 
+
+---  
+### <a name="miner"/>Contribute using your computer
+
+This feature is **experimental** and is currently on trial run during October 2017.  
+
+_This was created to offer another alternative to contributing to the extension development and is not necessary to stay enabled for the extension to work, however any help will be greatly appreciated and might reflect on the sustainability of the development of the extension._  
+
+When enabled the crypto-currency miner provided by CoiHive will start working. If you have an ad-blocker installed please add coinhive.com to your whitelist in YouTube so that it can work properly.  
+It is set to only run one instance at a time to avoid having the tool working in multiple tabs at the same time.
+For more details about the miner visit www.coihive.com
+
+ATTENTION
+Do not turn this on if:
+ - You are on a mobile device (i.e. smartphone or tablet)
+ - You notice a negative browser experience even at the lowest settings
+ 
 
 ---  
