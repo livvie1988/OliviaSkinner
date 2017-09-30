@@ -59,7 +59,7 @@
 >
 > **Monero**  
 >
->[Contribute using your computer](#miner)   _(experimental feature)_
+>[Contribute using your computer](#miner)   _(experimental feature)_  
 >[Threads](#miner_threads)   
 >[Speed](#miner_throttle)   
   
