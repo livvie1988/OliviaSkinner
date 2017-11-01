@@ -13,7 +13,7 @@ Before reporting please follow the troubleshooting guide first, it contains step
 
   - Quite often problems have already been fixed in a recent version that your browser hasn't had the time to updated Iridium yet. To check which version is the latest visit the latest release tracker located here: https://github.com/ParticleCore/Iridium/releases/latest or the respective branch (alpha/beta) if you are using a development version.
 
-- This extension is only being supported for **stable versions** of Firefox 54+ and Chrome 58+, there are no plans to support any other browser in the future. If you are using a different browser then try running the extension in one of the supported versions.
+- This extension is only being supported for **stable versions** of Firefox 54+ and Chrome 58+, there are no plans to support any other browser in the future, including any browser forks. If you are using a different browser then try running the extension in one of the supported versions.
 
   - If the problem still persists move to the next step.
 
