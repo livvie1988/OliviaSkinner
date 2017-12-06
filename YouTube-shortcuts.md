@@ -6,8 +6,8 @@ The following lists represents the currently supported shortcuts for the YouTube
 ### Local shortcuts
 Keys `QWERTY`|`AZERTY`|Function
 :--|:-:|:--
-`,` || Skip one frame forward (Video must be paused)
-`.` |`;`| Skip one frame backwards (Video must be paused)
+`,` || Skip one frame backwards (Video must be paused)
+`.` |`;`| Skip one frame forward (Video must be paused)
 `c` || Toggle subtitles/CC
 `b` || Change subtitles/CC background
 `o` || Change subtitles/CC text opacity
