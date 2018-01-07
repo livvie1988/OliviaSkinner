@@ -22,6 +22,7 @@ Deutsch| [Sebastian Barfurth](https://github.com/sebastianbarfurth), [2g4y1](htt
 French | [Théo](https://github.com/tete0148), [Hugo Vigne](https://github.com/Kemipso), [olmium](https://github.com/olmium)
 Greek | [Apostolos Tympakianakis](https://github.com/tympapost)
 Italian | [Patrick Gazzola](https://github.com/gzz93)
+Korean | [Khinenw](https://github.com/HelloWorld017)
 Polish | [Gilukm](https://github.com/Gilukm)
 Portuguese (Brazil) | [Igor Antun](https://github.com/IgorAntun)
 Russian | [Parasite03](https://github.com/Parasite03)
