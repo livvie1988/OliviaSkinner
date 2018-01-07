@@ -134,7 +134,6 @@ Controls the comment section visibility. Available options are:
  - Hide: Prevents the comments from loading and a button is made available to load the comments on demand
  - Remove: Completely prevents the comment section from loading with no option to load them 
 
---->[Enable reverse playlist control](#playlist_reverse_control)  
 ---
 ### <a name="playlist_reverse_control"/>Enable reverse playlist control
 
