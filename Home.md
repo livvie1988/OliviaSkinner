@@ -18,7 +18,7 @@ Language|Translators
 Bulgarian| [AdmiralAnimE](https://github.com/AdmiralAnimE)
 Chinese (Simplified) | [YFdyh000](https://github.com/yfdyh000)
 Czech | [Ondřej Sekáč](https://github.com/seky16)
-Deutsch| [Sebastian Barfurth](https://github.com/sebastianbarfurth), [2g4y1](https://github.com/2g4y1)
+Deutsch| [Sebastian Barfurth](https://github.com/sebastianbarfurth), [2g4y1](https://github.com/2g4y1), [Christian Heinrichs](https://github.com/christianheinrichs)
 French | [Théo](https://github.com/tete0148), [Hugo Vigne](https://github.com/Kemipso), [olmium](https://github.com/olmium)
 Greek | [Apostolos Tympakianakis](https://github.com/tympapost)
 Italian | [Patrick Gazzola](https://github.com/gzz93)
