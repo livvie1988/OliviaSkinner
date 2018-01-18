@@ -13,6 +13,7 @@
 >
 >[Play videos by hovering the thumbnails](#thumbnail_preview)  
 >[Shift key toggles audio on video thumbnail playback](#thumbnail_preview_mute)  
+>[Enable player pop-up](#popup_player)  
 >
 > **Blacklist**  
 >
@@ -99,6 +100,12 @@ Enables full video playback while the mouse is over the thumbnail of a specific 
 
 Allows audio control using the Shift key while playing videos by hovering the thumbnails. Pressing the Shift key will toggle the audio of the video. The audio always defaults to mute when a video thumbnail playback begins.
 The default volume for the video thumbnail playback is set to 50%.  
+
+---
+### <a name="popup_player"/>Enable player pop-up
+
+When enabled a button will be displayed over video thumbnails allowing videos to be played in a pop-up window.  
+*At the moment this feature is only available for video thumbnails, but it will also be expanded to be used while watching a video playing as well.*
 
 ---
 ### <a name="enable_blacklist"/>Enable blacklist
