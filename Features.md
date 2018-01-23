@@ -105,7 +105,8 @@ The default volume for the video thumbnail playback is set to 50%.
 ### <a name="popup_player"/>Enable player pop-up
 
 When enabled a button will be displayed over video thumbnails allowing videos to be played in a pop-up window.  
-*At the moment this feature is only available for video thumbnails, but it will also be expanded to be used while watching a video playing as well.*
+When launched from a playing video it will resume from where it was playing as well as when closing the same pop-up window.  
+The pop-up window can be resized and it will memorize the new size, with the minimum and default value being 533px in width.
 
 ---
 ### <a name="enable_blacklist"/>Enable blacklist
