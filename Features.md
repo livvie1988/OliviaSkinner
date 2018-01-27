@@ -68,7 +68,7 @@
 >
 > **Monero**  
 >
->[Contribute using your computer](#miner)   _(experimental feature)_  
+>[Contribute using your computer](#miner)   _(userscript only feature)_  
 >[Threads](#miner_threads)   
 >[Speed](#miner_throttle)   
   
@@ -263,7 +263,7 @@ Allows the extension to use the language modified locally by the user instead of
 ---  
 ### <a name="miner"/>Contribute using your computer
 
-This feature is **experimental** and is currently on trial run during October 2017.  
+This feature is only available on the userscript version.  
 
 _This was created to offer another alternative to contributing to the extension development and is not necessary to stay enabled for the extension to work, however any help will be greatly appreciated and can reflect on the sustainability of the development of the extension._  
 
