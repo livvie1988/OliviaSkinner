@@ -59,6 +59,10 @@
 > **Settings**  
 >
 >[Use dark theme](#iridium_dark_mode)  
+>
+> **Language**  
+>
+>[Use modified locale](#iridium_custom_language)  
 
 **Donate**
 >
@@ -246,10 +250,15 @@ When enabled all end screen cards will become invisible only when the mouse is o
 
 Controls whether or not the trailer video on the channel page should play automatically. 
 
----
+---  
 ### <a name="iridium_dark_mode"/>Use dark theme
 
 Switches the theme of the Iridium settings page from light to dark. 
+
+---  
+### <a name="iridium_custom_language"/>Use modified locale
+
+Allows the extension to use the language modified locally by the user instead of an automatic language. This only applies to the extension UI. 
 
 ---  
 ### <a name="miner"/>Contribute using your computer
