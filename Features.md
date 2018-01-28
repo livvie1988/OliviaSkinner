@@ -275,6 +275,12 @@ ATTENTION
 Do not turn this on if:
  - You are on a mobile device (i.e. smartphone or tablet)
  - You notice a negative browser experience even at the lowest settings
+
+This option is not meant to be used as a mining farm, its only purpose is for users that wish to contribute but do not have any other means. If your experience is degraded as a result of this turn it off. The help is appreciated, but not at the expense of your experience on YouTube.
+
+Some countries do not allow mining crypto currency or crypto currency as is, make sure your country allows it before turning this option on.
+
+**Due to the abuse of this system your anti-virus or protection software might block this feature. If such is the case and you still want to contribute then add an exception for this software to run on YouTube.**
  
 ---  
 ### <a name="miner_threads"/>Threads
