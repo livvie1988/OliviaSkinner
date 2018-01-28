@@ -1,3 +1,3 @@
 ## Userscript ![current_version beta](https://img.shields.io/badge/current_version-beta-orange.svg)
 
-##### [GitHub](https://github.com/ParticleCore/Iridium/raw/master/src/userscript/Iridium.user.js) 
+##### [GitHub](https://github.com/ParticleCore/Iridium/raw/master/src/Userscript/Iridium.user.js) 
