@@ -8,9 +8,3 @@ While no payment is necessary to use the extension any donation is welcome
 
 ### Patreon  
 **[Become my patron](https://www.patreon.com/particle)**  
-
----  
-
-### Gratipay  
-
-**[Donate](https://gratipay.com/Iridium)**  
