@@ -25,7 +25,7 @@ French | [Théo](https://github.com/tete0148), [Hugo Vigne](https://github.com/K
 Greek | [Apostolos Tympakianakis](https://github.com/tympapost)
 Italian | [Patrick Gazzola](https://github.com/gzz93)
 Korean | [Khinenw](https://github.com/HelloWorld017)
-Polish | [Gilukm](https://github.com/Gilukm)
+Polish | [Gilukm](https://github.com/Gilukm), [kostek00](https://github.com/kostek00)
 Portuguese (Brazil) | [Igor Antun](https://github.com/IgorAntun)
 Russian | [Parasite03](https://github.com/Parasite03)
 Spanish | [Freddy Morán Jr.](https://github.com/Freddynic159)
