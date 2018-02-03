@@ -5,7 +5,7 @@
 
 ## Chrome
 
-##### [Webstore](https://chrome.google.com/webstore/detail/gbjmgndncjkjfcnpfhgidhbgokofegbl/) (currently pending approval)  
+##### [Webstore](https://chrome.google.com/webstore/detail/iridium/gbjmgndncjkjfcnpfhgidhbgokofegbl)  
 
 ## Userscript
 
