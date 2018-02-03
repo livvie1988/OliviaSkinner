@@ -1,6 +1,6 @@
 ## Firefox
 
-##### [AMO store](https://addons.mozilla.org/en-US/firefox/addon/particle-iridium/)  
+##### [AMO store](https://addons.mozilla.org/firefox/addon/particle-iridium/)  
 ##### [Add-on](https://github.com/ParticleCore/Iridium/raw/master/dist/Iridium.xpi) (hosted on GitHub, outside AMO store. Read the installation instructions [here](#install_addon))
 
 ## Chrome
