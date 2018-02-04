@@ -17,7 +17,7 @@ Language|Translators
 :--------|:-----------
 Bulgarian| [AdmiralAnimE](https://github.com/AdmiralAnimE)
 Chinese (Simplified) | [YFdyh000](https://github.com/yfdyh000)
-Chinese (Traditional) | [Gaz](https://github.com/GazCore)
+Chinese (Traditional) | [Gaz](https://github.com/GazCore), [zhtw2013](https://github.com/zhtw2013)
 Czech | [Ondřej Sekáč](https://github.com/seky16)
 Deutsch| [Sebastian Barfurth](https://github.com/sebastianbarfurth), [2g4y1](https://github.com/2g4y1), [Christian Heinrichs](https://github.com/christianheinrichs)
 Finnish | [Rain](https://github.com/Rainyan)
