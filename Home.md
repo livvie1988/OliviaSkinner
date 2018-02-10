@@ -30,4 +30,4 @@ Polish | [Gilukm](https://github.com/Gilukm), [kostek00](https://github.com/kost
 Portuguese (Brazil) | [Igor Antun](https://github.com/IgorAntun)
 Russian | [Parasite03](https://github.com/Parasite03), [Habetdin](https://github.com/Habetdin)
 Spanish | [Freddy Morán Jr.](https://github.com/Freddynic159)
-Turkish| [adeep](https://github.com/adeep)
+Turkish| [adeep](https://github.com/adeep), [Sinan](https://github.com/SnnUntz)
