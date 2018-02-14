@@ -131,7 +131,7 @@ Displays in front of the published date how long ago the video has been uploaded
 ---
 ### <a name="player_quick_controls"/>Enable quick controls
 
-Displays a section containing quick controls. This section is located above the video description and is closed by default. Opening it will reveal a list of options to interact with:
+Displays a section located above the video description containing the following quick controls:
 
  - Autoplay: Allows quick control to the autoplay feature.
  - Thumbnails: Displays a small gallery with all qualities. Some qualities might not exist, in which case a grey icon will be displayed. To close the thumbnails panel click anywhere outside the images.
