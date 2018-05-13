@@ -24,7 +24,7 @@ Before reporting please follow the troubleshooting guide first, it contains step
   - If the problem still persists then it is not related to the extension. It might be caused by another extension, browser setting or by the website itself
   - If the problem doesn't persist move to the next step
 
-- Disable all other extensions and userscripts (except YT+) you might have running in your browser and restart the browser.
+- Disable all other extensions and userscripts (except Iridium) you might have running in your browser and restart the browser.
   - If the problem doesn't persist then it might not be related to the extension, it is most likely being caused by a conflicting extension. Enable each one individually until the issue returns, then proceed to the posting section
   - If the problem still persists move to the next step
 
