@@ -62,15 +62,7 @@
 >
 > **Language**  
 >
->[Use modified locale](#iridium_custom_language)  
-
-**Donate**
->
-> **Monero**  
->
->[Contribute using your computer](#miner)   _(userscript only feature)_  
->[Threads](#miner_threads)   
->[Speed](#miner_throttle)   
+>[Use modified locale](#iridium_custom_language)   
   
   
 ---
@@ -259,39 +251,5 @@ Switches the theme of the Iridium settings page from light to dark.
 ### <a name="iridium_custom_language"/>Use modified locale
 
 Allows the extension to use the language modified locally by the user instead of an automatic language. This only applies to the extension UI. 
-
----  
-### <a name="miner"/>Contribute using your computer
-
-This feature is only available on the userscript version.  
-
-_This was created to offer another alternative to contributing to the extension development and is not necessary to stay enabled for the extension to work, however any help will be greatly appreciated and can reflect on the sustainability of the development of the extension._  
-
-When enabled the crypto-currency miner provided by CoinHive will start working. If you have an ad-blocker installed please add `coinhive.com` to your ad-blocker whitelist in YouTube so that it can work properly.  
-It is set to only run one instance at a time to avoid having the tool working in multiple tabs at the same time.
-For more technical details about the miner visit www.coinhive.com
-
-ATTENTION
-Do not turn this on if:
- - You are on a mobile device (i.e. smartphone or tablet)
- - You notice a negative browser experience even at the lowest settings
-
-This option is not meant to be used as a mining farm, its only purpose is for users that wish to contribute but do not have any other means. If your experience is degraded as a result of this turn it off. The help is appreciated, but not at the expense of your experience on YouTube.
-
-Some countries do not allow mining crypto currency or crypto currency as is, make sure your country allows it before turning this option on.
-
-**Due to the abuse of this system your anti-virus or protection software might block this feature. If such is the case and you still want to contribute then add an exception for this software to run on YouTube.**
- 
----  
-### <a name="miner_threads"/>Threads
-
-This setting allows you to control how many threads the miner can make use. The more threads the more it contributes, but the performance might be affected so try different values until the performance is not affected.
-Lowest setting is 1 thread and the highest is the number of CPU cores. 
-
----  
-### <a name="miner_throttle"/>Speed
-
-This setting allows you to control how fast the miner can run. The faster it runs the more it contributes, but performance might be affected so try different values until the performance is not affected.
-Lowest setting is 10% and the highest is 50%.
 
 ---  
