@@ -16,7 +16,7 @@ Thank you to the people that have contributed to the locales:
 Language|Translators
 :--------|:-----------
 Bulgarian| [AdmiralAnimE](https://github.com/AdmiralAnimE)
-Chinese (Simplified) | [YFdyh000](https://github.com/yfdyh000), [haiwx](https://github.com/haiwx)
+Chinese (Simplified) | [YFdyh000](https://github.com/yfdyh000), [haiwx](https://github.com/haiwx), [deluxghost](https://github.com/deluxghost)
 Chinese (Traditional) | [Gaz](https://github.com/GazCore), [zhtw2013](https://github.com/zhtw2013)
 Czech | [Ondřej Sekáč](https://github.com/seky16)
 Deutsch| [Sebastian Barfurth](https://github.com/sebastianbarfurth), [2g4y1](https://github.com/2g4y1), [Christian Heinrichs](https://github.com/christianheinrichs), [007checker](https://github.com/007checker)
