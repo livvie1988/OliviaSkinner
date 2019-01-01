@@ -47,7 +47,6 @@
 >[Player shortcuts always active](#shortcuts_always_active)  
 >[Change volume using the mouse wheel](#player_volume_wheel)  
 >[Video stays always visible while scrolling](#player_always_visible)  
->[Video keeps playing when changing pages](#player_always_playing)  
 >[Hide end screen cards on mouse hover](#player_hide_end_screen)
 >
 > **Channel**  
@@ -222,13 +221,6 @@ When enabled the volume of the video can be controlled using the mouse wheel whi
 ### <a name="player_always_visible"/>Video stays always visible while scrolling
 
 When enabled the player will minimize into the bottom right corner of the screen once the original position is less than half visible. The player will restore it's size and position when more the original position is more than half visible.
-
-_Notice: For the moment the size and position of the mini player cannot be changed, but it will be possible in future versions of the extension._
-
----
-### <a name="player_always_playing"/>Video keeps playing when changing pages
-
-When enabled the player will minimize into the bottom right corner of the screen and keep playing while navigating to different pages. Two buttons located at the top are available in this mode that allows the return to the original video page or close the mini player.
 
 _Notice: For the moment the size and position of the mini player cannot be changed, but it will be possible in future versions of the extension._
 
