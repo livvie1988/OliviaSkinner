@@ -4,7 +4,7 @@
 ##### [Add-on](https://github.com/ParticleCore/Iridium/raw/master/dist/Iridium.xpi) (hosted on GitHub, outside AMO store. Read the installation instructions [here](#install_addon))
 
 ## Chrome
-
+*currently taken down by the Google team, read about it [here](https://github.com/ParticleCore/Iridium/issues/648)*
 ##### [Webstore](https://chrome.google.com/webstore/detail/iridium/gbjmgndncjkjfcnpfhgidhbgokofegbl)  
 
 ## Userscript
