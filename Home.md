@@ -21,7 +21,7 @@ Chinese (Traditional) | [Gaz](https://github.com/GazCore), [zhtw2013](https://gi
 Czech | [Ondřej Sekáč](https://github.com/seky16)
 Deutsch| [Sebastian Barfurth](https://github.com/sebastianbarfurth), [2g4y1](https://github.com/2g4y1), [Christian Heinrichs](https://github.com/christianheinrichs), [007checker](https://github.com/007checker)
 Finnish | [Rain](https://github.com/Rainyan)
-French | [Théo](https://github.com/tete0148), [Hugo Vigne](https://github.com/Kemipso), [olmium](https://github.com/olmium), [Nallat](https://github.com/Nallat)
+French | [Théo](https://github.com/tete0148), [Hugo Vigne](https://github.com/Kemipso), [olmium](https://github.com/olmium), [Nallat](https://github.com/Nallat), [Seeven](https://github.com/SeevenDev)
 Greek | [Apostolos Tympakianakis](https://github.com/tympapost)
 Italian | [Patrick Gazzola](https://github.com/gzz93)
 Korean | [Khinenw](https://github.com/HelloWorld017)
