@@ -3,24 +3,24 @@
 ---
 
 
-> **General**  
+**General**  
 >
 >[Dark theme](#darkTheme)  
->
-> **Player**  
+
+**Player**  
 >
 >[Play videos automatically](#autoPlayVideo)  
 >[Force max thumbnail resolution](#maxResThumbnail)  
->
-> **Download**  
+
+**Download**  
 >
 >Coming soon    
->
-> **Channels**  
+
+**Channels**  
 >
 >Coming soon 
->
-> **Blacklist**  
+
+**Blacklist**  
 >
 >Coming soon   
   
