@@ -11,6 +11,7 @@
 >
 >[Play videos automatically](#autoPlayVideo)  
 >[Force max thumbnail resolution](#maxResThumbnail)  
+>[Allow HFR (60fps)](#hfrOn)  
 
 **Download**  
 >
@@ -42,5 +43,10 @@ This setting is not related with YouTube's Auto Play Next Video feature.
 
 The max thumbnail resolution will be displayed when the [Play videos automatically](#autoPlayVideo) is turned off.  
 Some videos might not have a max thumbnail resolution available, in which case the default thumbnail will be used.  
+
+---
+### <a name="hfrOn"/>Allow HFR (60fps)  
+
+Controls whether or not videos with HFR (High Frame Rate - 30+fps) streams should be available in the player quality selection list  
 
 ---
