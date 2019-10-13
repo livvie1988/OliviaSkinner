@@ -6,6 +6,7 @@
 **General**  
 >
 >[Dark theme](#darkTheme)  
+>[Quick controls](#quickControls)  
 
 **Player**  
 >
@@ -34,6 +35,14 @@ Forces the dark theme state to either enabled or disabled.
 Changes are propagated live throughout any opened YouTube pages.  
 
 ---
+### <a name="quickControls"/>Quick controls
+###### added in 1.2.0  
+
+Displays a set of quick controls below the video player to quickly toggle the respective option.  
+At the moment only [Play videos automatically](#autoPlayVideo) is available in the quick controls  
+The video page must refresh for the change to take effect if this setting was modified while a video page was already loaded.  
+
+---
 ### <a name="autoPlayVideo"/>Play videos automatically
 ###### added in 1.0.0
 
@@ -52,6 +61,6 @@ Some videos might not have a max thumbnail resolution available, in which case t
 ###### added in 1.1.0
 
 Controls whether or not videos with HFR (High Frame Rate - 30+fps) streams should be available in the player quality selection list.  
-The video must restart for the change to take effect if this setting was modified while a video was already loaded.
+The video must restart for the change to take effect if this setting was modified while a video was already loaded.  
 
 ---
