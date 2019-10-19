@@ -25,6 +25,11 @@
 **Blacklist**  
 >
 >Coming soon   
+
+**Settings**  
+>
+>[Sync settings](#syncSettings)  
+>[Show settings button in YouTube](#iridiumLogo)  
   
   
 ---
@@ -62,5 +67,17 @@ Some videos might not have a max thumbnail resolution available, in which case t
 
 Controls whether or not videos with HFR (High Frame Rate - 30+fps) streams should be available in the player quality selection list.  
 The video must restart for the change to take effect if this setting was modified while a video was already loaded.  
+
+---
+### <a name="syncSettings"/>Sync settings  
+###### added in 1.2.3
+
+Allows the extension to save its settings either locally ( only the current browser has these settings ) or synced ( extension settings will be shared across Firefox browsers where the user is signed in and has "Sync addons" enabled in its Firefox account preferences ).  
+
+---
+### <a name="iridiumLogo"/>Show settings button in YouTube   
+###### added in 1.2.3
+
+Places a button on the top right corner of the YouTube web pages that opens the extension settings for users with minimalist browser setups that might not show the toolbar or users that don't want another button on their toolbar.  
 
 ---
