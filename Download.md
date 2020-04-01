@@ -1,7 +1,9 @@
 ## Firefox
 
-##### [AMO store](https://addons.mozilla.org/firefox/addon/particle-iridium/)  
-##### [Add-on](https://github.com/ParticleCore/Iridium/raw/master/dist/Iridium.xpi) (hosted on GitHub, outside AMO store. Read the installation instructions below)
+##### [~~AMO store~~](https://addons.mozilla.org/firefox/addon/particle-iridium/)
+    no longer receiving updates, read more about it [here](https://github.com/ParticleCore/Iridium/issues/828)
+##### [Add-on](https://github.com/ParticleCore/Iridium/raw/master/dist/Iridium.xpi) 
+    hosted on GitHub, outside AMO store. Read the installation instructions below
 ---
 ### <a name="install_addon">How to install add-on from Github
  - Click on the add-on link and save the add-on in your computer
